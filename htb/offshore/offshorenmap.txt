@@ -1,0 +1,43 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-16 07:59 CDT
+Nmap scan report for 10.10.110.2
+Host is up (0.058s latency).
+All 1000 scanned ports on 10.10.110.2 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.10.110.3
+Host is up (0.067s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE  VERSION
+443/tcp open  ssl/http nginx
+|_http-title: 400 The plain HTTP request was sent to HTTPS port
+
+Nmap scan report for 10.10.110.123
+Host is up (0.061s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 ed:da:93:ee:2e:2b:7a:02:4d:97:3d:1b:f2:40:ba:f6 (RSA)
+|   256 7e:de:fa:0c:9d:4c:6c:01:7c:0a:0c:f1:74:4d:f3:5f (ECDSA)
+|_  256 15:ab:fc:b8:a2:fa:f1:57:d7:3f:bc:ab:ad:d0:cc:99 (ED25519)
+80/tcp   open  http        Apache httpd 2.4.29 ((Ubuntu))
+8000/tcp open  http        Splunkd httpd
+|_http-server-header: Splunkd
+| http-robots.txt: 1 disallowed entry 
+|_/
+8089/tcp open  ssl/unknown
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 10.10.110.124
+Host is up (0.058s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Microsoft IIS httpd 10.0
+|_http-title: Offshore Dev
+|_http-server-header: Microsoft-IIS/10.0
+| http-methods: 
+|_  Potentially risky methods: TRACE
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 321.94 seconds

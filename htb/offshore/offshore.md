@@ -1,5 +1,7 @@
 
 # Enumerate the target:  
+ENTRY POINT
+10.10.110.0/24
 
 ## Network
 `nmap -sn 10.10.110.0/24 -oG ping_sweep.txt`
