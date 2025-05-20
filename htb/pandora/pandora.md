@@ -103,7 +103,7 @@ cat: auth.log: Permission denied
 
 ```
 
-
+Encountered VPN issues, unable to continue.
 
 
 TODO:
