@@ -1,0 +1,24 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 09:37 CDT
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 09:38 CDT
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.12 seconds
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 09:39 CDT
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.12 seconds
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 09:51 CDT
+Initiating Parallel DNS resolution of 256 hosts. at 09:51
+Completed Parallel DNS resolution of 256 hosts. at 09:51, 1.09s elapsed
+Initiating SYN Stealth Scan at 09:51
+Scanning 64 hosts [1000 ports/host]
+SYN Stealth Scan Timing: About 0.30% done
+SYN Stealth Scan Timing: About 0.54% done
+SYN Stealth Scan Timing: About 0.77% done
+SYN Stealth Scan Timing: About 1.00% done; ETC: 13:23 (3:30:32 remaining)
+SYN Stealth Scan Timing: About 6.30% done; ETC: 13:24 (3:19:52 remaining)
+SYN Stealth Scan Timing: About 11.38% done; ETC: 13:24 (3:09:11 remaining)
+SYN Stealth Scan Timing: About 16.37% done; ETC: 13:24 (2:58:29 remaining)
+SYN Stealth Scan Timing: About 21.40% done; ETC: 13:24 (2:47:48 remaining)
+SYN Stealth Scan Timing: About 26.39% done; ETC: 13:24 (2:37:07 remaining)
+SYN Stealth Scan Timing: About 31.42% done; ETC: 13:24 (2:26:24 remaining)
+SYN Stealth Scan Timing: About 36.44% done; ETC: 13:24 (2:15:41 remaining)
+SYN Stealth Scan Timing: About 41.45% done; ETC: 13:24 (2:04:58 remaining)
+SYN Stealth Scan Timing: About 46.46% done; ETC: 13:24 (1:54:17 remaining)
+SYN Stealth Scan Timing: About 51.48% done; ETC: 13:24 (1:43:35 remaining)
