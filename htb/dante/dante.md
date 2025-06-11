@@ -18,6 +18,15 @@
 
 
 #### Enumeration
-- Nmap scan:
-```bash
+- Nmap tcp scan:
+```
 nmap -sS -sV -p- 10.10.110.0/24
+```
+- nmap udp scan: 
+```
+nmap -sU 10.10.110.0/24
+```
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 10:03 CDT
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.27 seconds
+
+
