@@ -1,7 +1,0 @@
-Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-11 12:38 CDT
-Nmap scan report for 10.10.110.100
-Host is up.
-All 1000 scanned ports on 10.10.110.100 are in ignored states.
-Not shown: 1000 filtered tcp ports (no-response)
-
-Nmap done: 1 IP address (1 host up) scanned in 201.34 seconds

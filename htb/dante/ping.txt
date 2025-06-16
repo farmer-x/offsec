@@ -1,0 +1,10 @@
+PING 10.10.110.2 (10.10.110.2) 56(84) bytes of data.
+
+--- 10.10.110.2 ping statistics ---
+7 packets transmitted, 0 received, 100% packet loss, time 6148ms
+
+PING 10.10.110.2 (10.10.110.2) 56(84) bytes of data.
+
+--- 10.10.110.2 ping statistics ---
+8 packets transmitted, 0 received, 100% packet loss, time 7166ms
+
